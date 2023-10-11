@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;  
+}
+.titulo {
+    background-color: rgb(31, 95, 190);
+    color: white;
+    text-align: center;
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    padding: 10px;
+}
+.buscador {
+    margin-bottom: 10px;
+}
+.table-responsive {
+    font-size: 13px;
+}
