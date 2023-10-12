@@ -15,7 +15,7 @@ const Mostrador = ({dataApi, filtro}) => {
     };
 
     return (
-        <Table responsive striped bordered size="sm">
+        <Table responsive striped bordered hover size="sm">
             <thead>
                 <tr>
                     <th>Fecha</th>
